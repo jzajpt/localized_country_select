@@ -1,4 +1,6 @@
-{ :cz => {
+# encoding: utf-8
+
+{ :cs => {
 
     :countries => {
 			:AD => "Andorra",

@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 # = LocalizedCountrySelect
 # 
 # View helper for displaying select list with countries:
