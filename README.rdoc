@@ -41,3 +41,4 @@ for the <tt>en</tt> locale.
 
 
 Copyright (c) 2008 Karel Minarik (www.karmi.cz), released under the MIT license
+Copyright (c) 2010 Jiri Zajpt
