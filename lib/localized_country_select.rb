@@ -86,7 +86,7 @@ module ActionView
         value = value(object)
         content_tag("select",
           add_options(
-            localized_country_options_for_select(value, priority_countries),
+            localized_country_options_for_select(value, priority_countries).html_safe,
             options, value
           ), html_options
         )
